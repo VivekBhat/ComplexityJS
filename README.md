@@ -3,9 +3,8 @@
 
   * Name: Vivek Bhat
   * Email ID: vbhat@ncsu.edu
-  * Unity ID: vbhat
-  * Enr No: 20152554
-
+  
+  
 ##
 This Program is a copy of my private github repo hence lacks other files.
 
